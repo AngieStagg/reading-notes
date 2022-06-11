@@ -10,3 +10,4 @@ Want to add a list?  In HTML it’s pretty complicated.  Markdown is pretty stra
 3. Third Item
 
 So you see, you don’t have to be a coding whiz to dress up your text.  Learning the simple markdown syntax is an easy and labor-saving alternative to other markup languages.  
+
