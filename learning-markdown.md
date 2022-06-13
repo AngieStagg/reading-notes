@@ -10,7 +10,7 @@ Want to add bold text?  Just add two asterisks before and after your desired tex
 
 Want it italicized?  Just add one asterisk.  `*Bold*`  *Bold*
 
-Want to add a list?  In HTML it’s pretty complicated.  Markdown is pretty straight forward.  Just add a number one followed by a period, and so forth...
+Want to add a list?  In HTML it’s pretty complicated.  Markdown is pretty straightforward.  Just add a number one followed by a period, and so forth...
 
 1. First Item
 2. Second Item
