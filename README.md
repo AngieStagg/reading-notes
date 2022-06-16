@@ -1,7 +1,7 @@
 # reading-notes
 My learning Journal for Code Fellows
 
-<em>Hi, I'm Angie, a new student at Code Fellows.  You can find my GitHub portfolio page [here.](https://github.com/aedeleon2023)</em>
+*Hi, I'm Angie, a new student at Code Fellows.  You can find my GitHub portfolio page* [here.](https://github.com/aedeleon2023)
 
 
 
