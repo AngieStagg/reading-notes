@@ -2,11 +2,11 @@
 
 <h3 align="center">Text Editors</h3>
 
-Text Editors are software that can be used to create and edit text files.  Software developers use a special kind of text editor that has certain features to help write and edit code. Ones of interest for coders and developers are IDEs, source code and collabrative editors.  
+Text Editors are software that can be used to create and edit text files.  Software developers use a special kind of text editor that has certain features to help write and edit code. Ones of interest for coders and developers are IDEs, source code, and collaborative editors.  
 
 - IDEs, Integrated Development Environments, are designed to manage and streamline large programming projects.  
 - Source Code Editors have the functions and tools needed to write code.  
-- Collabrative Editors allow multiple people to work on the same project from different locations.  Many feature live updates and chat. 
+- Collaborative Editors allow multiple people to work on the same project from different locations.  Many feature live updates and chat. 
 
 There are many features to look for when selecting your code editor. Some of the most helpful are:
 
@@ -14,13 +14,13 @@ There are many features to look for when selecting your code editor. Some of the
 - Syntax Highlighting
 - Themes 
 - Extensions
-- Languages supported
+- Languages Supported
 
-It is important to select an editor that not only meets your coding needs now, but in the future. 
+It is important to select an editor that meets your coding needs now and in the future.  
 
 <h3 align="center">The Terminal</h3>
 
-To access your OS, without going through you GUI, and it's limitations, you can go directly to the terminal.  The terminal is the actual interface to your console that lets you type and execute text based commands.  Some of the coolest commands are:
+To access your OS, without going through your GUI, and its limitations, you can go directly to the terminal.  The terminal is the actual interface to your console that lets you type and execute text-based commands.  Some of the coolest commands are:
 
 - pwd - Print Working Directory
 - mkdir - Make Directory
