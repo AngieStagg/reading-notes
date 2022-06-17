@@ -10,4 +10,4 @@
 ## 102
 * [Class One - Learning Markdown](learning-markdown.md) 
 * [Class One - Growth Mindset](growth-mindset.md) 
-* [Class Two - Coder's Computer](coders-computer.md)
+* [Class Two - Coder's Computer](the-coders-computer.md)
