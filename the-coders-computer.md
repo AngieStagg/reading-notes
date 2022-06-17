@@ -1,6 +1,6 @@
-<b><h1 align="center">The Coder's Computer</h1></b>
+# *The Coder's Computer* #
 
-<h3 align="center">Text Editors</h3>
+### Text Editors ###
 
 Text Editors are software that can be used to create and edit text files.  Software developers use a special kind of text editor that has certain features to help write and edit code. Ones of interest for coders and developers are IDEs, source code, and collaborative editors.  
 
@@ -18,7 +18,7 @@ There are many features to look for when selecting your code editor. Some of the
 
 It is important to select an editor that meets your coding needs now and in the future.  
 
-<h3 align="center">The Terminal</h3>
+### The Terminal ###
 
 To access your OS, without going through your GUI, and its limitations, you can go directly to the terminal.  The terminal is the actual interface to your console that lets you type and execute text-based commands.  Some of the coolest commands are:
 
