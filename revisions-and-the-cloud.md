@@ -18,3 +18,5 @@ To make a new repository, you can create one on GitHub.  You want to at least ma
 - To commit you type **get commit -m "put your message here"**  (Your message should include why you did what you did.)
 - Now type **code .**  (code space dot) -This will launch you into VS Code, where you can further edit.
 - Type git push origin main to send updated version to GitHub
+
+[HOME](https://aedeleon2023.github.io/reading-notes/)
