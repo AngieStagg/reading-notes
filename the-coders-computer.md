@@ -32,3 +32,5 @@ To access your OS, without going through your GUI, and its limitations, you can 
 - cp - Copy
 - find - Find files
 - rm - remove
+
+[HOME](https://aedeleon2023.github.io/reading-notes/)
