@@ -11,3 +11,5 @@
 
 
 > ### The problem is not the problem.   *-Captain Jack Sparrow*
+
+[HOME](https://aedeleon2023.github.io/reading-notes/)
