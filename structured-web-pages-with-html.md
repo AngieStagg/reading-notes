@@ -1,4 +1,4 @@
-# Structured Web Pages With HTML
+# Structure Web Pages With HTML
 
 *** Wireframing
 A wireframe is basically the skeleton of web pages.  To build a wireframe, you must first have a clear understanding of what you’re doing.  What is the purpose of this website?  What do we want the future users to take away from the site?  How will the future users navigate the site?
