@@ -12,3 +12,4 @@
 * [Class One - Growth Mindset](growth-mindset.md) 
 * [Class Two - Coder's Computer](the-coders-computer.md)
 * [Class Three - Revisions and The Cloud](revisions-and-the-cloud.md)
+* [Class Four - Structure Web Pages With HTML](structure-web-pages-with-html.md)
