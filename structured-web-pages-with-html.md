@@ -13,3 +13,5 @@ Next, there are attributes.  These add extra information to the tags.  Such as f
 ***Semantics
 Semantics, in a programming sense, is the way that data and commands are presented.  Semantics, in summary, is concerned with logical outcomes.  Its purpose and practice is to make language understandable to humans and to machines.  
 
+[HOME](https://aedeleon2023.github.io/reading-notes/)
+
