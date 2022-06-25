@@ -1,12 +1,10 @@
 # Reading Notes - *My learning Journal for Code Fellows*
 
-</br>
+
 
 ## Hi, I'm Angie, a new student at Code Fellows.  You can find my GitHub portfolio page [here.](https://github.com/aedeleon2023)
 
-</br>
-</br>
-</br>
+
 
 ### Table of Contents
 ---
