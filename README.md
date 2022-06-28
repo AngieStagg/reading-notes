@@ -15,3 +15,4 @@
 * [Class Four - Structure Web Pages With HTML](structured-web-pages-with-html.md)
 * [Class Five - Design Web Pages With CSS](design-web-pages-with-css.md)
 * [Class Six - Dynamic Web Pages With JavaScript](dynamic-web-pages-with-javascript.md)
+* [Class Seven - Programming With JavaScript](programming-with-javascript.md)
