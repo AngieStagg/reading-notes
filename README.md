@@ -19,18 +19,18 @@
 
 
 ### Code 201 Reading Notes
-* [Class 1 -Readings Overview](class-01.md)
-* Class 2
-* Class 3
-* Class 4
-* Class 5
-* Class 6 
-* Class 7
-* Class 8 
-* Class 9
-* Class 10
-* Class 11
-* Class 12
-* Class 13
-* Class 14
-* Class 15
+* [Read 01 -Readings Overview](class-01.md)
+* Read 02
+* Read 03
+* Read 04
+* Read 05
+* Read 06 
+* Read 07
+* Read 08 
+* Read 09
+* Read 10
+* Read 11
+* Read 12
+* Read 13
+* Read 14
+* Read 15
