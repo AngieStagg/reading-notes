@@ -19,18 +19,18 @@
 
 
 ### Code 201 Reading Notes
-* [Learning Journal 1 -Readings Overview](class-01.md)
-* Learning Journal 2
-* Learning Journal 3
-* Learning Journal 4
-* Learning Journal 5
-* Learning Journal 6 
-* Learning Journal 7
-* Learning Journal 8 
-* Learning Journal 9
-* Learning Journal 10
-* Learning Journal 11
-* Learning Journal 12
-* Learning Journal 13
-* Learning Journal 14
-* Learning Journal 15
+* [Class 1 -Readings Overview](class-01.md)
+* Class 2
+* Class 3
+* Class 4
+* Class 5
+* Class 6 
+* Class 7
+* Class 8 
+* Class 9
+* Class 10
+* Class 11
+* Class 12
+* Class 13
+* Class 14
+* Class 15
