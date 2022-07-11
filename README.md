@@ -19,7 +19,7 @@
 
 
 ### Code 201 Reading Notes
-* Learning Journal 1
+* [Learning Journal 1 -Readings Overview](class-01.md)
 * Learning Journal 2
 * Learning Journal 3
 * Learning Journal 4
