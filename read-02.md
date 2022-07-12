@@ -62,3 +62,5 @@ It allows for a new condition to be tested if the first is false.
 ### What is the difference between the logical operator && and ||?
 
 && = and, || = or
+
+[HOME](https://aedeleon2023.github.io/reading-notes/)
