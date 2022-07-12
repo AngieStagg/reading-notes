@@ -19,8 +19,8 @@
 
 
 ### Code 201 Reading Notes
-* [Read 01 -Readings Overview](class-01.md)
-* Read 02
+* [Read 01 - Readings Overview](class-01.md)
+* [Read 02 - Basics of HTML, CSS & JS](read-02.md)
 * Read 03
 * Read 04
 * Read 05
