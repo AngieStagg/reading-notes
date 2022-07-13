@@ -21,7 +21,7 @@
 ### Code 201 Reading Notes
 * [Read 01 - Readings Overview](class-01.md)
 * [Read 02 - Basics of HTML, CSS & JS](read-02.md)
-* Read 03
+* [Read 03 - HTML Lists, Control Flow with JS, and the CSS Box Model](read-03.md)
 * Read 04
 * Read 05
 * Read 06 
