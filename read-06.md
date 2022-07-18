@@ -18,9 +18,10 @@ If an object property name is defined at runtime then you can't use dot notation
   age: 2,
   color: 'white with black spots',
   humanAge: function (){
-    console.log(`${this.name} is ${this.age*7} in human years`);
+    console.log('${this.name} is ${this.age*7} in human years');
   }
 }`
+
 This is bracket notation.  Setting members doesn't just stop at updating the values of existing properties and methods; you can also create completely new members.
 
 ### What is the DOM?
