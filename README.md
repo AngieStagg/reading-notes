@@ -19,12 +19,12 @@
 
 
 ### Code 201 Reading Notes
-* [Read 01 - Readings Overview](class-01.md)
+* [Read 01 - Overview](class-01.md)
 * [Read 02 - Basics of HTML, CSS & JS](read-02.md)
 * [Read 03 - HTML Lists, Control Flow with JS, and the CSS Box Model](read-03.md)
 * [Read 04 - HTML Links, JS Functions, and Intro to CSS Layout](read-04.md)
-* [Read 05 - Readings: Images, Color, Text](read-05.md)
-* Read 06 
+* [Read 05 - Images, Color, Text](read-05.md)
+* [Read 06 - Problem Domain, Objects, and the DOM](read-06.md)
 * Read 07
 * Read 08 
 * Read 09
