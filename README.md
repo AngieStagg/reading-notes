@@ -28,8 +28,8 @@
 * [Read 07 - Object-Oriented Programming, HTML Tables](read-07.md)
 * [Read 08 - CSS Layout](read-08.md)
 * [Read 09 - Forms and JS Events](read-09.md)
-* [Read 10 - Readings: Debugging](read-10.md)
-* Read 11
+* [Read 10 - Debugging](read-10.md)
+* [Read 11 - Audio, Video, Images](read-11.md)
 * Read 12
 * Read 13
 * Read 14
