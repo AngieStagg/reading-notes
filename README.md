@@ -30,7 +30,7 @@
 * [Read 09 - Forms and JS Events](read-09.md)
 * [Read 10 - Debugging](read-10.md)
 * [Read 11 - Audio, Video, Images](read-11.md)
-* Read 12
+* [Read 12 - Chart.js, Canvas](read-12.md)
 * Read 13
 * Read 14
 * Read 15
