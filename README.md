@@ -31,6 +31,6 @@
 * [Read 10 - Debugging](read-10.md)
 * [Read 11 - Audio, Video, Images](read-11.md)
 * [Read 12 - Chart.js, Canvas](read-12.md)
-* Read 13
+* [Read 13 - Local Storage](read-13.md)
 * Read 14
 * Read 15
