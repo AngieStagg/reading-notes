@@ -2,7 +2,7 @@
 
 
 
-## *Hi, I'm Angie, a new student at Code Fellows.  Below you can find my notes, from each lesson, in either my 102 or 201 classes. You can also find my GitHub portfolio page [here.](https://github.com/aedeleon2023)*
+## *Hi, I'm Angie, a new student at Code Fellows.  Below you can find my notes, from each lesson, in either my 102, 201 or 301 classes. You can also find my GitHub portfolio page [here.](https://github.com/aedeleon2023)*
 
 
 ---
@@ -34,4 +34,6 @@
 * [Read 13 - Local Storage](read-13.md)
 * [Read 14a - CSS Transforms, Transitions, and Animations](read-14a.md)
 * [Read 14b - What Google Learned About Teams](read-14b.md)
-* Read 15
+
+
+### Code 301 Reading Notes
