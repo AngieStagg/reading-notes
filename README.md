@@ -2,7 +2,7 @@
 
 
 
-## *Hi, I'm Angie, a new student at Code Fellows.  Below you can find my notes, from each lesson, in either my 102, 201 or 301 classes. You can also find my GitHub portfolio page [here.](https://github.com/aedeleon2023)*
+## *Hi, I'm Angie, a student at Code Fellows.  Below you can find my notes, from each lesson, in either my 102, 201 or 301 classes. You can also find my GitHub portfolio page [here.](https://github.com/aestagg)*
 
 
 ---
