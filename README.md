@@ -2,11 +2,11 @@
 
 
 
-## *Hi, I'm Angie, a student at Code Fellows.  Below you can find my notes, from each lesson, in either my 102, 201 or 301 classes. You can also find my GitHub portfolio page [here.](https://github.com/aestagg)*
+## *Hi, I'm Angie, a student at Code Fellows.  Below you can find my reading notes, from each lesson, in either my 102, 201 or 301 classes. You can also find my GitHub portfolio page [here.](https://github.com/aestagg)*
 
 
 ---
-### Code 102 Reading Notes
+### Code 102 - Intro to Software Development
 * [Class One - Learning Markdown](learning-markdown.md) 
 * [Class One - Growth Mindset](growth-mindset.md) 
 * [Class Two - Coder's Computer](the-coders-computer.md)
@@ -18,7 +18,7 @@
 * [Class Eight - Operators and Loops](operators-and-loops.md)
 
 
-### Code 201 Reading Notes
+### Code 201 - Foundations of Software Development
 * [Read 01 - Overview](class-01.md)
 * [Read 02 - Basics of HTML, CSS & JS](read-02.md)
 * [Read 03 - HTML Lists, Control Flow with JS, and the CSS Box Model](read-03.md)
@@ -36,4 +36,4 @@
 * [Read 14b - What Google Learned About Teams](read-14b.md)
 
 
-### Code 301 Reading Notes
+### Code 301 - Intermediate Software Development
