@@ -19,7 +19,7 @@ The advantages of using component-based architecture are ease of deployment, red
 Props is short for properties.
 
 ### How are props used in React?
-Props are what carries data between components.
+Props are what carry data between components.
 
 ### What is the flow of props?
 Props pass data in a uni-directional flow, that being one way from parent to child.
